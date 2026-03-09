@@ -1,0 +1,10 @@
+[
+  {"query": "hello", "target": {"intent": ["greeting"]}},
+  {"query": "hi there", "target": {"intent": ["greeting"]}},
+  {"query": "how do I use the dashboard", "target": {"intent": ["help"]}},
+  {"query": "where is the tasks page", "target": {"intent": ["navigation"]}},
+  {"query": "how many tasks are overdue", "target": {"intent": ["analytics"]}},
+  {"query": "show me project stats", "target": {"intent": ["analytics"]}},
+  {"query": "delete all users", "target": {"intent": ["illegal_request"]}},
+  {"query": "what is the weather", "target": {"intent": ["other"]}}
+]
