@@ -12,7 +12,13 @@ The agent can:
 The system is designed to **minimize LLM latency** by using **local embeddings, pgvector, and a lightweight intent classifier**.
 
 ---
+# Demo
+![RAG Demo](demo/rag.png)
+![RAG Latency](demo/rag_latency.png)
+![SQL Demo](demo/sql.png)
+![SQL Latency](demo/sql_latency.png)
 
+---
 # Key Features
 
 ### Hybrid AI Agent
